@@ -12,6 +12,7 @@
 * JavaScript
 * Css
 
+*
 ### Herramientas ocupadas
 
 1. Vscode
