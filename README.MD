@@ -20,5 +20,5 @@
 
 ## Pagina básica para crear mensajes encriptados.
 
-> Ejercicio práctico de creación de herramienta en una pagina, donde se ocupara una función de creación de mensajes secretos, mediante el mecanismo de encriptación Cesar (creado por Julio Cesar, si ese *JULIO CESAR* el emperador Romano) se aplicaron varios conceptos básicos (manejo de DOM, EventListener, git y github, etc).
+> Ejercicio práctico de creación de herramienta en una pagina, donde se ocupara una función de encriptación de a mensajes, mediante el mecanismo de seguridad llamado Cesar (creado por Julio Cesar, si ese *JULIO CESAR* el emperador Romano).
 >
